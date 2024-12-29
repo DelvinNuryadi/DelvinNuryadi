@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Delvin Nuryadi and I'm a student, from Politeknik Negeri Samarinda</p>
+<p align="left">My name is Delvin Nuryadi and I'm a student from Politeknik Negeri Samarinda</p>
 
 ###
 
