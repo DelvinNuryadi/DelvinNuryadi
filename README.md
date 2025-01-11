@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I started coding<br>📚 I'm currently learning full-stack development and diving deeper into and web technologies<br>🎯 Goals: Master both frontend and backend development, and build powerful, scalable web applications<br>🎲 Fun fact: I’m always tinkering with Linux. Can’t get enough of customizing my setup!</p>
+<p align="left">✨ Creating bugs since I started coding<br>🎲 Fun fact: I’m always tinkering with Linux.</p>
 
 ###
 
