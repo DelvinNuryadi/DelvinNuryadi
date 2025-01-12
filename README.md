@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I started coding<br>🎲 Fun fact: I’m always tinkering with Linux.</p>
+<p align="left">✨ Creating bugs since I started coding.</p>
 
 ###
 
