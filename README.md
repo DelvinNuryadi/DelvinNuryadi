@@ -31,4 +31,4 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delvinnuryadi)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delvinnuryadi)
