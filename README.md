@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm junior coder
+coder
 
 
 ## 🌐 Socials:
